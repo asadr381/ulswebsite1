@@ -12,8 +12,13 @@
     "react-scripts": "^5.0.1"
   },
   "scripts": {
+<<<<<<< HEAD
     "start": "react-scripts start",
     "build": "react-scripts build",
+=======
+     "start": "react-scripts start",
+    "build": "react-scripts startr",
+>>>>>>> cf59b003a1cb8b86cbfde6c5fdfcfaf54224e131
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
